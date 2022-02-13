@@ -19,7 +19,6 @@
   "homepage": "https://github.com/adityaprasad03cvcmsd/portfolio-backend#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mongoose": "^6.2.1",
-    "nodemon": "^2.0.15"
+    "mongoose": "^6.2.1"
   }
 }
